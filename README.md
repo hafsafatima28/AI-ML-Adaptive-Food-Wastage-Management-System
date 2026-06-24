@@ -21,7 +21,22 @@ The system processes food consumption data, applies logical rules and basic mach
 - Object-Oriented Programming (OOP)  
 - Data Structures and Algorithms  
 - Basic Machine Learning concepts (logic-based approach)  
-- File Handling for data storage and processing  
+- File Handling for data storage and processing
+  
+  ## System Architecture (Designed)
+The system follows a data-driven architecture where food consumption data is collected, processed, and analyzed to estimate optimal food preparation quantities. The architecture is designed with scalability and automation in mind.
+
+## API & Cloud Exposure
+- REST API design for daily food consumption input
+- API flow conceptualized using Amazon API Gateway
+- Serverless backend processing planned using AWS Lambda
+- Amazon S3 planned for storing historical food consumption datasets
+- Understanding of cloud-based data pipelines
+
+## Frontend 
+- Basic frontend structure planned using React / Next.js
+- Input forms for daily consumption data
+- Visualization of food demand trends
 
 ## Project Type
 Academic / Learning Project
